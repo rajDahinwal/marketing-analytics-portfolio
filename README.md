@@ -72,3 +72,17 @@ Currency is not specified in the source dataset. ROAS represents revenue divided
 ## Project Objective
 
 Demonstrate practical skills in data cleaning, SQL analysis, performance measurement and business reporting.
+
+## Campaign Performance Charts
+
+### 1. ROAS by Marketing Channel
+
+![ROAS by Channel](visuals/channel_roas.png)
+
+### 2. Monthly ROAS Trend
+
+![Monthly ROAS Trend](visuals/monthly_roas.png)
+
+### 3. Budget vs Actual Spend
+
+![Budget vs Actual Spend](visuals/budget_vs_spend.png)
