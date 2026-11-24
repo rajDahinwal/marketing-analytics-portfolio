@@ -1,0 +1,28 @@
+MARKETING CAMPAIGN DATA QUALITY REPORT
+=============================================
+
+Initial rows: 1000
+Final rows: 1000
+Duplicate full rows removed: 0
+Duplicate campaign IDs detected: 0
+
+VALIDATION RESULTS
+---------------------------------------------
+missing_values: 0
+negative_budget: 0
+negative_spend: 0
+negative_impressions: 0
+negative_clicks: 0
+negative_conversions: 0
+negative_revenue: 0
+clicks_exceed_impressions: 0
+conversions_exceed_clicks: 0
+spend_exceeds_budget: 149
+invalid_date_order: 0
+invalid_dates: 0
+ctr_mismatch: 0
+cpa_mismatch: 0
+roas_mismatch: 0
+
+OUTPUT FILE
+C:\Users\Dell\marketing-analytics-portfolio\data\processed\marketing_campaigns_cleaned.csv
